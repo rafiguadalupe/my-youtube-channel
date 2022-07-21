@@ -1,0 +1,27 @@
+#title_1{
+  color: rgb(175, 46, 218);
+  box-shadow:red 100px;
+}
+body{
+
+    background-color:rgb(0, 0, 0) ;
+    background-image:  url("https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_52683-63441.jpg?w=2000");
+    
+}
+#profile_pic{
+width:400px ;
+height:400px ;
+border-radius:345px ;
+border-color: blue;
+border-width:100px ;
+border-style: dashed;
+} 
+.title_2{
+color: rgb(251, 241, 241);
+font-size:50px;
+font-family:'Oswald', sans-serif;
+}
+p{
+  font-size:30px ;
+color: blanchedalmond;
+}
